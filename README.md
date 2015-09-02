@@ -6,9 +6,9 @@ The code should be commented but feel free to ask me any clarification.
 
 # Typical folder format:
 [yyyy-mm-dd] Challenge #000 [Easy] Name of the challenge  
-* +challenge.txt    #Challenge Description
-* +readme.md        #Same as challenge.txt, formatted for github
-* +Solution.py      #Solution to the challenge. Not always Python.
+* challenge.txt    #Challenge Description
+* readme.md        #Same as challenge.txt, formatted for github
+* Solution.py      #Solution to the challenge. Not always Python.
 
 
 # License
