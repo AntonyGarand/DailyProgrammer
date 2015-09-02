@@ -8,9 +8,11 @@ Your challenge today is to write a program that can determine if the letters in 
 As a bonus, see if you can find words spelled in reverse alphebatical order.
 # Input Description
 
-You'll be given one word per line, all in standard English. Examples:
-```almost
-cereal```
+You'll be given one word per line, all in standard English. Examples:  
+```
+almost
+cereal
+```
 # Output Description  
 Your program should emit the word and if it is in order or not. Examples:
 ```almost IN ORDER  
