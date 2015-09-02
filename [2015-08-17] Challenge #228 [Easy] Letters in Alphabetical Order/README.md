@@ -29,7 +29,8 @@ abhors
 fiddle
 begins
 chimps
-wronged```
+wronged
+```
 
 # Challenge Output
 ```billowy IN ORDER
