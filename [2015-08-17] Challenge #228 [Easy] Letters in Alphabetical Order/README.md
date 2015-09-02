@@ -14,9 +14,9 @@ almost
 cereal
 ```
 # Output Description  
-Your program should emit the word and if it is in order or not. Examples:
+Your program should emit the word and if it is in order or not. Examples:  
 ```
-almost IN ORDER  
+almost IN ORDER
 cereal NOT IN ORDER
 ```
 # Challenge Input  
@@ -34,15 +34,15 @@ begins
 chimps
 wronged
 ```
-
-# Challenge Output
+  
+# Challenge Output  
 ```
 billowy IN ORDER
 biopsy IN ORDER
 chinos IN ORDER
 defaced NOT IN ORDER
 chintz IN ORDER
-sponged REVERSE ORDER 
+sponged REVERSE ORDER
 bijoux IN ORDER
 abhors IN ORDER
 fiddle NOT IN ORDER
