@@ -15,10 +15,13 @@ cereal
 ```
 # Output Description  
 Your program should emit the word and if it is in order or not. Examples:
-```almost IN ORDER  
-cereal NOT IN ORDER```
+```
+almost IN ORDER  
+cereal NOT IN ORDER
+```
 # Challenge Input  
-```billowy  
+```
+billowy  
 biopsy
 chinos
 defaced
@@ -33,7 +36,8 @@ wronged
 ```
 
 # Challenge Output
-```billowy IN ORDER
+```
+billowy IN ORDER
 biopsy IN ORDER
 chinos IN ORDER
 defaced NOT IN ORDER
@@ -44,4 +48,5 @@ abhors IN ORDER
 fiddle NOT IN ORDER
 begins IN ORDER
 chimps IN ORDER
-wronged REVERSE ORDER```
+wronged REVERSE ORDER
+```

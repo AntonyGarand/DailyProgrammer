@@ -33,7 +33,9 @@ E  g
 # Output Description
 
 Your program should output the player ID who won, what move they won, and what final position (column and row) won. Optionally list the four pieces they used to win.
-```X won at move 7 (with A2 B2 C2 D2)```
+```
+X won at move 7 (with A2 B2 C2 D2)
+```
 # Challenge Input
 ```
 D  d  
@@ -52,4 +54,6 @@ G  g
 B  a
 ```
 # Challenge Output
-```O won at move 11 (with c1 d2 e3 f4)```
+```
+O won at move 11 (with c1 d2 e3 f4)
+```
